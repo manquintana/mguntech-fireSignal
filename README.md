@@ -2,34 +2,33 @@ fireSignal
 Author: Manuel Alejandro Quintana
 MGUNTECH 2021
 
-## Introduccion
+## Introduction
 
-fireSignal es un dispositivo de hardware desarrollado para permitir la práctica de tiro rápido en varias modalidades, seteando previo a cada tanda de disparos, un temporizador que indicará al tirador en qué momento comenzar a disparar y cuando dejar de hacerlo.
-- Permite setear tandas entre 1 segundo y 99 minutos.
-- Cuenta con dos indicadores: uno lumínico y otro sonoro.
-- Es muy cómodo para utilizar en polígonos que no cuenten con un sistema automatizado de blancos por ejemplo para practicar tiro FBI.
-- Además, no hay necesidad de contar con un instructor asistente.
+fireSignal is a hardware device developed to enable rapid-fire shooting practice across various disciplines. Before each round of shots, a timer is set to indicate to the shooter when to begin firing and when to stop.
+- It allows setting intervals from 1 second up to 99 minutes.
+- It features two indicators: one visual and one audible.
+- It is very convenient for use at shooting ranges that do not have an automated target system, for example when practicing FBI-style shooting.
+- Additionally, there is no need to have an assistant instructor present.
 
-## Requisitos
+## Requirements
 
-Para construir el dispositivo, hay que valerse de:
+To build the device, the following components are required:
 
-Hardware: 
+Hardware:
 - Arduino Nano V3 CH340 (x2)
-- nrf24l01 Module (x2)
-- Powerbank 5V 1A (x2)
-- Matriz led 8x8 controlador Max 7219
-- Beeper 3 pins
-- pulsador de 4 patas (x3)
-- display 7 segmentos 4 digitos controlador Tm1637
-- impresora 3d para imprimir la carcaza
-- cables de conexión
-- placa de prototipado
+- NRF24L01 module (x2)
+- 5V 1A power bank (x2)
+- 8x8 LED matrix with MAX7219 controller
+- 3‑pin beeper
+- 4‑pin push button (x3)
+- 4‑digit 7‑segment display with TM1637 controller
+- 3D printer to print the enclosure
+- Connection wires
+- Prototyping board
 
 Software:
 - Arduino IDE
 
+## Build your own
 
-## Construccion
-
-Consultar esquema de construcción publicado
+Just follow the published schematic :)
