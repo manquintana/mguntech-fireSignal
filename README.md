@@ -15,7 +15,7 @@
 ## DIY! 🛠️
 
 I no longer offer it in the Mguntech website, but you can build you own just following the published schematic
-<img src="assets/schematics.gif" />"
+<img src="assets/schematics.gif" />
 
 To build the device, the following components are required:
 
