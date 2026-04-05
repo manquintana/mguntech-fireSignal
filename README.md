@@ -2,7 +2,7 @@
 
 **fireSignal** is an electronic device that enables rapid-fire shooting practice across various disciplines. Before each round of shots, a timer is set to indicate to the shooter when to begin firing and when to stop.
 
-<src img="assets/firesignal1.jpg" />
+<img src="assets/firesignal1.jpg" />
 
 ## Features
 
@@ -15,6 +15,7 @@
 ## DIY! 🛠️
 
 I no longer offer it in the Mguntech website, but you can build you own just following the published schematic
+<img src="assets/schematics.gif" />"
 
 To build the device, the following components are required:
 
