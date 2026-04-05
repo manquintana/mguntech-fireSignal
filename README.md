@@ -2,6 +2,8 @@
 
 **fireSignal** is an electronic device that enables rapid-fire shooting practice across various disciplines. Before each round of shots, a timer is set to indicate to the shooter when to begin firing and when to stop.
 
+<src img="assets/firesignal1.jpg" />
+
 ## Features
 
 - ⏱️ Allows setting intervals from **1 second up to 99 minutes**
